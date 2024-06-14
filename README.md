@@ -5,6 +5,7 @@
 ## Projects:
 
 1. [Credit Card Customers Churn Classification](https://github.com/Shaan2522/DL-Models/blob/main/1_CreditCard_Churn_Classification.ipynb)
+2. [MNIST Dataset Image Classification using ANN](https://github.com/Shaan2522/DL-Models/blob/main/2_ImageClassification_MNIST_using_ANN.ipynb)
 
 ## Contributing
 
