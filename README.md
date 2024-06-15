@@ -6,6 +6,7 @@
 
 1. [Credit Card Customers Churn Classification](https://github.com/Shaan2522/DL-Models/blob/main/1_CreditCard_Churn_Classification.ipynb)
 2. [MNIST Dataset Image Classification using ANN](https://github.com/Shaan2522/DL-Models/blob/main/2_ImageClassification_MNIST_using_ANN.ipynb)
+3. [Potato Leaves Disease Classification](https://github.com/Shaan2522/DL-Models/blob/main/3_PotatoLeaves_Diseases_Classification.ipynb)
 
 ## Contributing
 
